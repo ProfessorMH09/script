@@ -156,7 +156,7 @@ if(expirydate>today):
     elif(now>Final and now<Finalend):
             period=400
             hero()
-            else:
+
     def clear():
          for windows
         if name == 'nt':
